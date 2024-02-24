@@ -11,8 +11,11 @@ Handle all data of Student Here.
 - jdk 1.8
 - xampp
 - database -php mysql
+<<<<<<< HEAD
 # Here All Tools are in one folders
 - All Tools
+=======
+>>>>>>> 994999c730374979bca26723fd6571eb7dfe231d
 # Here All Jar Files
 - All Jar
   
