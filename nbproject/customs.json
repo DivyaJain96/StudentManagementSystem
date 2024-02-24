@@ -1,0 +1,24 @@
+{
+    "attributes": {
+        "placeholder": {
+            "context": "input"
+        },
+        "integrity": {
+            "context": "link"
+        },
+        "crossorigin": {
+            "context": "link"
+        },
+        "target": {
+            "context": "img"
+        },
+        "aria-expanded": {}
+    },
+    "elements": {
+        "div": {
+            "attributes": {
+                "\"": {}
+            }
+        }
+    }
+}
