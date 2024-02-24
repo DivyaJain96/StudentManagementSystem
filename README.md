@@ -7,7 +7,7 @@ FACULTY
 # HERE
 Handle all data of Student Here.
 # Requirement Tools for This Project 
-- Netbeans 8.2
+- Netbeans 8.0
 - jdk 1.8
 - xampp
 - database -php mysql
